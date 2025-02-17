@@ -5,7 +5,7 @@ We will write an **interpreter** for the **Flix** language using **Python 3**.
 
 ---
 
-## 🛠 Step 1: Install Python 3 
+## 🛠 Step 1: Install Python 3
 
 Before we begin, make sure you have **Python 3** installed on your system. Follow the instructions below based on your operating system.  
 
@@ -30,5 +30,31 @@ Before we begin, make sure you have **Python 3** installed on your system. Follo
 
 ---
 
-💡 **Next Steps:**  
-Now that Python 3 is installed, we can start building our programming language. Stay tuned for the next steps! 🚀  
+## 📚 Step 2: Theory  
+
+Many people think that creating their own programming language is terribly difficult.  
+In fact, it is not!  
+
+First, you need to choose the **end of a line**: In every program, there is a beginning and an end of a command. The beginning is easy to understand—some function or statement. But how does the program know where the end is? This needs to be defined.  
+
+Simple languages use a specific **symbol** to mark the end of a command. For example, in some languages, it's `;`, while in Python, it's simply the newline character `\n`.  
+
+More complex languages rely on **syntax rules** to detect when one command ends and another begins. However, this can be tricky! A command can sometimes be inside another command, leading to potential errors.  
+
+So let's start with something simple! 🚀  
+
+---
+
+## 📊 Step 3: Language Processing Diagram  
+To better understand how a programming language works, let's take a look at the following diagram:  
+
+![Language Processing Diagram](Язык%20Программирования.jpg)  
+
+This diagram illustrates the main stages of processing source code:  
+1. **Tokenizer** – Converts source code into tokens.  
+2. **Lexer** – Translates tokens into meaningful units.  
+3. **Parser** – Analyzes structure and syntax.  
+4. **Error Handling** – Detects and reports errors.  
+5. **Interpreter & Compiler** – Executes or compiles the code.  
+
+Now that we understand these components, we can move forward with building our own language! 🚀
