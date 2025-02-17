@@ -48,7 +48,7 @@ So let's start with something simple! 🚀
 ## 📊 Step 3: Language Processing Diagram  
 To better understand how a programming language works, let's take a look at the following diagram:  
 
-![Language Processing Diagram](Язык%20Программирования.jpg)  
+![Language Processing Diagram](my.jpg)  
 
 This diagram illustrates the main stages of processing source code:  
 1. **Tokenizer** – Converts source code into tokens.  
