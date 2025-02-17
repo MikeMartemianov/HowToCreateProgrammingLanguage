@@ -5,7 +5,7 @@ We will write an **interpreter** for the **Flix** language using **Python 3**.
 
 ---
 
-## 🛠 Step 1: Install Python 3 and a Code Editor  
+## 🛠 Step 1: Install Python 3 
 
 Before we begin, make sure you have **Python 3** installed on your system. Follow the instructions below based on your operating system.  
 
