@@ -43,18 +43,7 @@ More complex languages rely on **syntax rules** to detect when one command ends 
 
 So let's start with something simple! 🚀  
 
----
+![Language Processing Diagram](blob:https://app.diagrams.net/19a49ed9-97e4-453b-ac37-d3c4b42dd38d)  
 
-## 📊 Step 3: Language Processing Diagram  
-To better understand how a programming language works, let's take a look at the following diagram:  
-
-![Language Processing Diagram](my.jpg)  
-
-This diagram illustrates the main stages of processing source code:  
-1. **Tokenizer** – Converts source code into tokens.  
-2. **Lexer** – Translates tokens into meaningful units.  
-3. **Parser** – Analyzes structure and syntax.  
-4. **Error Handling** – Detects and reports errors.  
-5. **Interpreter & Compiler** – Executes or compiles the code.  
-
-Now that we understand these components, we can move forward with building our own language! 🚀
+Языки программирования работают так:
+сначала берётся (код на вашем языке программирования зелёным) и (токены ораньжевым)
