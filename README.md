@@ -43,7 +43,7 @@ More complex languages rely on **syntax rules** to detect when one command ends 
 
 So let's start with something simple! 🚀  
 
-![Language Processing Diagram](blob:https://app.diagrams.net/19a49ed9-97e4-453b-ac37-d3c4b42dd38d)  
+![Language Processing Diagram](__lockData/my.jpg)  
 
 Языки программирования работают так:
 сначала берётся (код на вашем языке программирования зелёным) и (токены ораньжевым)
